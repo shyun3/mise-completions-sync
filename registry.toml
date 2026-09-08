@@ -136,6 +136,9 @@ whosthere = "standard"
 # but the binary it provides is named misecompsync.
 mise-completions-sync = { zsh = "misecompsync completion zsh", bash = "misecompsync completion bash", fish = "misecompsync completion fish" }
 
+# not in mise's registry; install as cargo:forgejo-cli. The binary is named fj.
+forgejo-cli = { completion_name = "fj", zsh = "fj completion zsh", bash = "fj completion bash", fish = "fj completion fish" }
+
 bun = { zsh = "bun completions", bash = "bun completions", fish = "bun completions" }
 
 # mise installs this tool as flux2, but the binary it provides is named flux.
