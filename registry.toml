@@ -45,6 +45,7 @@ k3d = "standard"
 ko = "standard"
 kubeseal = { audit_skip = "needs a reachable cluster config even to print completions", zsh = "kubeseal completion zsh", bash = "kubeseal completion bash", fish = "kubeseal completion fish" }
 linkerd = "standard"
+nova = "standard"
 skaffold = "standard"
 stern = "standard"
 talosctl = "standard"

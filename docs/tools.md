@@ -71,6 +71,7 @@ The following tools have shell completion support in mise-completions-sync.
 | mise-completions-sync |  | ✓ | ✓ | ✓ |
 | [nerdctl](https://github.com/containerd/nerdctl) | contaiNERD CTL - Docker-compatible CLI for cont... | ✓ | ✓ | ✓ |
 | nix |  | ✓ | ✓ | ✓ |
+| [nova](https://github.com/FairwindsOps/nova) | Find outdated or deprecated Helm charts running... | ✓ | ✓ | ✓ |
 | [npm](https://github.com/npm/cli) | the package manager for JavaScript | ✓ | ✓ |  |
 | oc | OpenShift Client CLI (oc) | ✓ | ✓ | ✓ |
 | oci | Oracle Cloud Infrastructure CLI | ✓ | ✓ | ✓ |
@@ -130,7 +131,7 @@ The following tools have shell completion support in mise-completions-sync.
 | [yq](https://github.com/mikefarah/yq) | yq is a portable command-line YAML processor | ✓ | ✓ | ✓ |
 | [zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | ✓ | ✓ | ✓ |
 
-**Total: 125 tools**
+**Total: 126 tools**
 
 ## Shell Support Legend
 
